@@ -1,4 +1,4 @@
-<h2 align="center">Ola! Meu nome e Fernanda Amorim.</h2>
+<img align="left" height="90" src="https://i.pinimg.com/originals/66/51/b1/6651b114911fe20fbc86e4547a3d001e.gif"  /><h2 align="right">Ola! Meu nome e Fernanda Amorim.</h2>
 
 ###
 
@@ -7,11 +7,11 @@
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -29,6 +29,10 @@
 ###
 
 <p align="left">Sou uma jovem progamadora, tnho conhecimento basico sobre Python, JavaScript, HTML e CSS, uma das minhas principais habilidades e a arte.</p>
+
+###
+
+<h2 align="left">REDES SOCIAIS</h2>
 
 ###
 
@@ -59,11 +63,5 @@
   <img src="https://streak-stats.demolab.com?user=Fernandarabs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernandarabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Fernandarabs/Fernandarabs/output/snake.svg" alt="Snake animation" />
 
 ###
