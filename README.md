@@ -1,4 +1,4 @@
-<img align="left" height="100" src="https://i.pinimg.com/originals/66/51/b1/6651b114911fe20fbc86e4547a3d001e.gif"  /><h2 align="right">Ola! Meu nome e Fernanda Amorim.</h2>
+<img align="left" height="100" src="[https://i.pinimg.com/originals/66/51/b1/6651b114911fe20fbc86e4547a3d001e.gif](https://i.pinimg.com/736x/34/e3/4b/34e34b37e4d80d60f289a02fbad859cd.jpg)"  /><h2 align="right">Ola! Meu nome e Fernanda Amorim.</h2>
 
 ###
 
