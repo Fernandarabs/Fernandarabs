@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center">OLA! SOU NANDY</h2>
+<h2 align="left">OLA! SOU NANDY</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Meu nome e Fernanda Amorim, tenho 17 anos e atualmente curso Informatica no Instituto Federal de Ciẽncias e Tecnologia do Maranhão (IFMA)</p>
+<p align="left">Meu nome e Fernanda Amorim, tenho 178 anos e atualmente curso Informatica no Instituto Federal de Ciẽncias e Tecnologia do Maranhão (IFMA)</p>
 
 ###
 
@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img height="" [src="(https://i.pinimg.com/originals/ca/c5/24/cac5247b11a6ad9865db0f76b77b1c31.gif)]"  />
+  <img height="" src="https://i.pinimg.com/originals/ca/c5/24/cac5247b11a6ad9865db0f76b77b1c31.gif"  />
 </div>
 
 ###
