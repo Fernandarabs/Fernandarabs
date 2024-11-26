@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Meu nome e Fernanda Amorim, tenho 178 anos e atualmente curso Informatica no Instituto Federal de Ciẽncias e Tecnologia do Maranhão (IFMA)</p>
+<p align="left">Meu nome e Fernanda Amorim, tenho 17 anos e atualmente curso Informatica no Instituto Federal de Ciẽncias e Tecnologia do Maranhão (IFMA)</p>
 
 ###
 
@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/99/f1/ae/99f1ae690c1044fee43f0e16089b5224.gif"  />
+  <img height="" src="[https://i.pinimg.com/originals/99/f1/ae/99f1ae690c1044fee43f0e16089b5224.gif](https://i.pinimg.com/originals/e4/ef/f2/e4eff2f52674e1c62023be74bd2646b9.gif)"  />
 </div>
 
 ###
