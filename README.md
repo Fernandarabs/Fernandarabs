@@ -37,10 +37,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/nanda_amorim.bf/profilecard/?igsh=MTZ6cz29mNmxsdmlucA==" target="_blank">
+   <a href="https://www.instagram.com/nanda_amorim.bf/profilecard/?igsh=MTZ6cz29mNmxsdmlucA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="fernandaamorim@cada.ifma.edu.br" target="_blank">
+   <a href="fernandaamorim@cada.ifma.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
