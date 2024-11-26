@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="left">OLA! SOU NANDY</h2>
+<h2 align="center">OLA! SOU NANDY</h2>
 
 ###
 
