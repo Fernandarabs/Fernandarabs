@@ -107,6 +107,6 @@
 
 <br clear="both">
 
-<h4 align="center">E ISSO ATE LOGO!! VEJAM ALGUNS DOS MEUS PROJETOS, BEIJO DA NANDY</h4>
+<h4 align="center">E ISSO, ATE LOGO!! VEJAM ALGUNS DOS MEUS PROJETOS, BEIJO DA NANDY</h4>
 
 ###
