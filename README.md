@@ -64,9 +64,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="100" src="https://i.pinimg.com/736x/22/4d/b2/224db2c66aedc051e46165fad2d0bff7.jpg"  />
+<br >
 
 ###
 
@@ -94,7 +92,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="original.svg" height="40" alt="canva logo"  />
+  <img src="original.svg" height="40" 
 </div>
 
 ###
